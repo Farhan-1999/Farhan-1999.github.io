@@ -11,7 +11,7 @@ author_profile: true
 - [University of Dhaka](https://www.du.ac.bd/), Dhaka, Bangladesh.
 - **CGPA:** 3.64 *[out of 4.00]*
 - **Thesis Title:** *[“Energy and Latency-aware Computation Load Distribution of Hybrid Split and Federated Learning on IoT Devices”](https://dl.acm.org/doi/10.1145/3629188.3629201)*
-- **Thesis Presentation:** [Presentation Slide](https://example.com/ms-presentation)
+- **Thesis Presentation:** [Presentation Slide](https://docs.google.com/presentation/d/1oBx9drr8c3ZMzDKJzdSNueGGGOWdEYZjFn8K71zRJv4/edit?usp=sharing)
 - **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.du.ac.bd/faculty/faculty_details/CSE/1768), Professor, Department of Computer Science and Engineering, University of Dhaka
 
 ### Higher Secondary School Certificate
