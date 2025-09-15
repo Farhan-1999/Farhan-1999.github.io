@@ -12,11 +12,13 @@ author_profile: true
 
 *In Proceedings of the 10th International Conference on Networking, Systems and Security (NSysS ’23)*, 2023  
 
-In this paper, we develop an adaptive clustering-based computation load distribution method for hybrid Split and Federated Learning on IoT devices, with heterogeneous resource capacities, participating in the model training.
+In this paper, we develop an adaptive clustering-based computation load distribution method for client devices in hybrid Split and Federated Learning on IoT devices, with heterogeneous resource capacities, participating in the model training.
 
 **Recommended citation:**  
 Sakhaouth Hossan, Farhan Mahmud, Palash Roy, Md Abdur Razzaque, and Md Mustafizur Rahman. Energy and Latency-aware Computation Load Distribution of Hybrid Split and Federated Learning on IoT devices. In Proceedings of the 10th International Conference on Networking, Systems and Security, pages 61–68, 2023.  
 [https://doi.org/10.1145/3629188.3629201](https://doi.org/10.1145/3629188.3629201)
+
+[Download Here](https://drive.google.com/file/d/1SS-3nPluvsCk2afne8Z4KNXVmfVgnntw/view?usp=sharing)
 
 ### [An Insight into Dhaka City's Walkability](https://www.kaggle.com/datasets/jahirsadikmonon insights-into-dhaka-city-walkability)
 Publicly available dataset on Kaggle, 2023

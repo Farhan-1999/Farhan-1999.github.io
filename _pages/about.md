@@ -19,7 +19,7 @@ News & Updates
 
 - 📢 **[January 2025]** – Joined as a Research Assisant at [CCDS](https://github.com/academicpages/academicpages.github.io).
   
-- 📢 **[September 2024]** – Started my MSc at [University of Dhaka](https://du.ac.bd/).
+<!-- - 📢 **[September 2024]** – Started my MSc at [University of Dhaka](https://du.ac.bd/). -->
 
 - 📢 **[February 2024]** – Joined at the department of CSE, [Green University of Bangladesh](https://www.green.edu.bd/) as a lecturer.
 
