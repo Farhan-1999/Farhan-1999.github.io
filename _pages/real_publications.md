@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 ------
 
-### [Energy and Latency-aware Computation Load Distribution of Hybrid Split and Federated Learning on IoT Devices](https://dl.acm.org/doi/10.1145/3629188.3629201)
+### [Energy and Latency-aware Computation Load Distribution of Hybrid Split and Federated Learning on IoT Devices](/research_publications/cbald)
 
 *In Proceedings of the 10th International Conference on Networking, Systems and Security (NSysS ’23)*, 2023  
 
@@ -36,9 +36,9 @@ Land use land cover (LULC) is defined how the land is used by humans or what the
 Supervisor: [AKM Mahbubur Rahman](https://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman)
 
 
-**Adversarial Threats and Robust Federated Learning in Satellite Communication Systems**
+**Green Federated Learning for Cross-Mission Anomaly Detection in Satellite Telemetry**
 <br>
-This work investigates vulnerabilities of federated learning models in satellite communication data to adversarial and poisoning attacks, and proposes strategies for enhancing robustness.
+This work is on developing an efficient federated learning framework in resource constrained satellite environments for anomaly detection from satellite telemetry data. 
 <br>
 Supervisor: [Sajib Mistry](https://staffportal.curtin.edu.au/staff/profile/view/sajib-mistry-d41c64f3/)
 
