@@ -20,7 +20,7 @@ Sakhaouth Hossan, Farhan Mahmud, Palash Roy, Md Abdur Razzaque, and Md Mustafizu
 
 [Download Here](https://drive.google.com/file/d/1SS-3nPluvsCk2afne8Z4KNXVmfVgnntw/view?usp=sharing)
 
-### [An Insight into Dhaka City's Walkability](https://www.kaggle.com/datasets/jahirsadikmonon insights-into-dhaka-city-walkability)
+### [An Insight into Dhaka City's Walkability](https://www.kaggle.com/datasets/jahirsadikmonon/insights-into-dhaka-city-walkability)
 Publicly available dataset on Kaggle, 2023
 
 Crowdsourced research project of a team of ~70 to collect and analyze a crowdsourced dataset on the walkability of Dhaka City. The dataset, available on Kaggle, provides insights into factors influencing walking experiences in the city.
