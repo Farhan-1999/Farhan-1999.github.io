@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 ------
 
-### [Energy and Latency-aware Computation Load Distribution of Hybrid Split and Federated Learning on IoT Devices](/research_publications/cbald)
+### Energy and Latency-aware Computation Load Distribution of Hybrid Split and Federated Learning on IoT Devices - [Details](/research_publications/cbald)
 
 *In Proceedings of the 10th International Conference on Networking, Systems and Security (NSysS ’23)*, 2023  
 
@@ -29,14 +29,20 @@ Crowdsourced research project of a team of ~70 to collect and analyze a crowdsou
 ## Ongoing Research Projects
 ------
 
-**LULC Analysis of Bangladesh using Deep Learning**
+**LULC Analysis of Bangladesh using Deep Learning - [Details](/research_publications/lulc)**
 <br>
 Land use land cover (LULC) is defined how the land is used by humans or what the surface is covered with. The goal of this project is to produce good quality LULC annotation data pixel by pixel for Dhaka city and surrounding area. With a sufficiently trained segmentation model, we can employ this model to perform LULC over the entire Bangladesh without any human effort.
 <br>
 Supervisor: [AKM Mahbubur Rahman](https://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman)
 
+**Resource Aware Anonymous Clustered/Tiered Federated Learning - [Details](/research_publications/fed)**
+<br>
+Resource-aware clustering for federated learning is usually done by the server collecting device computation and communication resource information, which is a sensitive info. In this, work we are developing a clustered FL framework which doesn't expose device information to server.
+<br>
+Supervisor: [Sajib Mistry](https://staffportal.curtin.edu.au/staff/profile/view/sajib-mistry-d41c64f3/)
 
-**Green Federated Learning for Cross-Mission Anomaly Detection in Satellite Telemetry**
+
+**Resource Aware Anonymous Clustered/Tiered Federated Learning - [Details](/research_publications/satellite)**
 <br>
 This work is on developing an efficient federated learning framework in resource constrained satellite environments for anomaly detection from satellite telemetry data. 
 <br>

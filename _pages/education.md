@@ -5,6 +5,13 @@ permalink: /education/
 author_profile: true
 ---
 
+### 🎓 Master of Science(M.Sc) in Computer Science and Engineering (CSE) (Ongoing)
+------
+
+- [University of Dhaka](https://www.du.ac.bd/), Dhaka, Bangladesh.
+- **CGPA:** 3.75 *[out of 4.00]*
+- **Supervisor:** [Dr. Md. Abdur Razzaque](https://www.du.ac.bd/faculty/faculty_details/CSE/1768), Professor, Department of Computer Science and Engineering, University of Dhaka
+
 ### 🎓 Bachelor of Science(B.Sc) in Computer Science and Engineering (CSE)
 ------
 
