@@ -42,7 +42,7 @@ Resource-aware clustering for federated learning is usually done by the server c
 Supervisor: [Sajib Mistry](https://staffportal.curtin.edu.au/staff/profile/view/sajib-mistry-d41c64f3/)
 
 
-**Resource Aware Anonymous Clustered/Tiered Federated Learning - [Details](/research_publications/satellite)**
+**Federated Learning For Satellite Telemetry - [Details](/research_publications/satellite)**
 <br>
 This work is on developing an efficient federated learning framework in resource constrained satellite environments for anomaly detection from satellite telemetry data. 
 <br>

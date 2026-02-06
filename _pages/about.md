@@ -9,7 +9,7 @@ redirect_from:
 
 Hello, I am Farhan Mahmud, currently working as a research assistant in [Center for Computational & Data Sciences, CCDS](https://github.com/academicpages/academicpages.github.io). I have graduated from the [Department of Computer Science and Engineering](https://du.ac.bd/programDetails/CSE/396), [University of Dhaka](https://www.du.ac.bd/) . I worked as a lecturer at the Department of CSE, [Green University of Bangladesh](https://www.green.edu.bd/) for a year. I have experience in both academic research and teaching, gained through my roles as a research assistant and lecturer mentioned previously.
 
-I have done my undergradute thesis under the supervision of [Dr. Md. Abdur Razzaque](https://www.du.ac.bd/faculty/faculty_details/CSE/1768). My research at CCDS is supervised by [Dr. Akm Mahbubur Rahman](https://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman). My research interest includes Distributed Learning in IoT networks, Federated Learning, Split Learning and machine learning security.
+I have done my undergradute thesis under the supervision of [Dr. Md. Abdur Razzaque](https://www.du.ac.bd/faculty/faculty_details/CSE/1768). My research at CCDS is supervised by [Dr. Akm Mahbubur Rahman](https://iub.ac.bd/academics/departments/cse/faculty-and-staff/akmmrahman) and [Dr. Sajib Mistry](https://staffportal.curtin.edu.au/staff/profile/view/sajib-mistry-d41c64f3/). My research interest includes Distributed Learning in IoT networks, Federated Learning, Split Learning and machine learning security.
 
 I am actively looking for fully-funded Graduate (Ph.D / Masters) study oppurtunities in good research labs worldwide.
 
